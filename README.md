@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>C# (.NET Desktop Applications)</b>
+- <p>Tip Calculator<br>Rock, Paper, Scissors Game</p>
 
 
 <h2>My Certifications</h2>
 
- - <b>Python</b>
+ - <p></p>
  
 <i></i>
